@@ -1,4 +1,4 @@
-# yogadi-Notepad.py  
+# yogadi-Notepad  
 Author : ADITYA KAPSE  <br>
 Simple Notes App (Tkinter) <br>
 Short description <br>
