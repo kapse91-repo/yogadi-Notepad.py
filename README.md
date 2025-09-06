@@ -1,5 +1,5 @@
-# yogadi-Notepad.py  <br>
-Author : ADITYA KAPSE
+# yogadi-Notepad.py  
+Author : ADITYA KAPSE  <br>
 Simple Notes App (Tkinter) <br>
 Short description <br>
 Simple Notes App is a lightweight desktop note-taking application built with Python's tkinter. It provides basic file operations (new, open, save) and a simple menu-driven interface for writing and saving plain text notes. <br>
